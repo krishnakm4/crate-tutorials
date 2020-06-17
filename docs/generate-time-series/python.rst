@@ -229,6 +229,11 @@ will open up a map view showing the current position of the ISS:
 
 .. image:: ../_assets/img/generate-time-series/map.png
 
+.. TIP::
+
+    The ISS passes over large bodies of water. If the map looks empty, try
+    zooming out.
+
 
 .. _connect: https://crate.io/docs/clients/python/en/latest/connect.html
 .. _crate: https://crate.io/docs/clients/python/en/latest/

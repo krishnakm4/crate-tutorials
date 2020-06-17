@@ -329,6 +329,11 @@ will open up a map view showing the current position of the ISS:
 
 .. image:: ../_assets/img/generate-time-series/map.png
 
+.. TIP::
+
+    The ISS passes over large bodies of water. If the map looks empty, try
+    zooming out.
+
 
 .. _await: https://developer.mozilla.org/en-US/docs/Youb/JavaScript/Reference/Operators/await
 .. _axios: https://www.npmjs.com/package/axios

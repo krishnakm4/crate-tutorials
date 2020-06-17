@@ -274,6 +274,11 @@ will open up a map view showing the current position of the ISS:
 
 .. image:: ../_assets/img/generate-time-series/map.png
 
+.. TIP::
+
+    The ISS passes over large bodies of water. If the map looks empty, try
+    zooming out.
+
 
 .. _command line: https://en.wikipedia.org/wiki/Command-line_interface
 .. _CrateDB Admin UI: https://crate.io/docs/clients/admin-ui/en/latest/
