@@ -185,7 +185,7 @@ To get started, import the ``pandas`` library:
 Pandas uses `SQLAlchemy`_ and the `CrateDB Python Client`_ to provide support
 for ``crate://`` style `connection strings`_.
 
-Here's a basic way to query the raw data using pandas:
+Then, query the raw data:
 
 .. code-block:: python
 
